@@ -1,7 +1,8 @@
-#include <stdio.h>
+#include <iostream>
+using namespace std;
 
-int main(int argc, char **argv)
-{
-    printf("Hello world!!!!!+1\n");
-    return 0;
+int main() 
+{ 
+    cout << "Hello, world!" << endl;
+    return 0; 
 }
